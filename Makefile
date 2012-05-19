@@ -1,2 +1,3 @@
 all:
-	gcc -O2 -Wall -s -lcrypto -o lanauth lanauth.c
+	gcc -O2 -s lanauth.c -lcrypto -o lanauth
+
