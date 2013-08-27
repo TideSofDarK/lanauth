@@ -1,4 +1,4 @@
 Lanauth
 =======
 
-GUI for KABiNET ISP authorizer.
+KABiNET ISP authorizer.
